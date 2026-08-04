@@ -1,4 +1,4 @@
-package br.com.clinmed.paciente;
+package br.com.clinmed.domain.paciente;
 
 public record DadosListagemPaciente(
             Long id,

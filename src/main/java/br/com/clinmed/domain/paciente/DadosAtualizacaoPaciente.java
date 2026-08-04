@@ -1,6 +1,6 @@
-package br.com.clinmed.paciente;
+package br.com.clinmed.domain.paciente;
 
-import br.com.clinmed.endereco.DadosEndereco;
+import br.com.clinmed.domain.endereco.DadosEndereco;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotNull;
 

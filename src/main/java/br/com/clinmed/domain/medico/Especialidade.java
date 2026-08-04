@@ -1,4 +1,4 @@
-package br.com.clinmed.medico;
+package br.com.clinmed.domain.medico;
 
 public enum Especialidade {
 

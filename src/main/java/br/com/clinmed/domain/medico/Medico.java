@@ -1,6 +1,6 @@
-package br.com.clinmed.medico;
+package br.com.clinmed.domain.medico;
 
-import br.com.clinmed.endereco.Endereco;
+import br.com.clinmed.domain.endereco.Endereco;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;

@@ -1,6 +1,6 @@
 package br.com.clinmed.controller;
 
-import br.com.clinmed.paciente.*;
+import br.com.clinmed.domain.paciente.*;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

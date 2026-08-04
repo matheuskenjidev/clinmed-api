@@ -1,6 +1,6 @@
-package br.com.clinmed.paciente;
+package br.com.clinmed.domain.paciente;
 
-import br.com.clinmed.endereco.Endereco;
+import br.com.clinmed.domain.endereco.Endereco;
 
 public record DadosDetalhamentoPaciente(
         String nome,

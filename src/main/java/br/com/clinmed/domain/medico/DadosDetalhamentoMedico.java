@@ -1,6 +1,6 @@
-package br.com.clinmed.medico;
+package br.com.clinmed.domain.medico;
 
-import br.com.clinmed.endereco.Endereco;
+import br.com.clinmed.domain.endereco.Endereco;
 
 public record DadosDetalhamentoMedico(
         Long id,

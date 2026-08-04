@@ -1,4 +1,4 @@
-package br.com.clinmed.endereco;
+package br.com.clinmed.domain.endereco;
 
 import jakarta.persistence.Embeddable;
 import lombok.AllArgsConstructor;

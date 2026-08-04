@@ -1,8 +1,6 @@
-package br.com.clinmed.medico;
+package br.com.clinmed.domain.medico;
 
-import br.com.clinmed.endereco.DadosEndereco;
-import jakarta.validation.Valid;
-import jakarta.validation.constraints.NotBlank;
+import br.com.clinmed.domain.endereco.DadosEndereco;
 import jakarta.validation.constraints.NotNull;
 
 public record DadosAtualizacaoMedico(
